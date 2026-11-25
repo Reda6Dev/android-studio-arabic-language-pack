@@ -4,6 +4,10 @@
 >
 > **حزمة لغة عربية مجتمعية غير رسمية (تجريبية)** لواجهة Android Studio 2026.1.1، ترجمة بمساعدة الذكاء الاصطناعي وراجعتها بالعينات فقط.
 
+**Is there an Arabic language pack / Arabic UI for Android Studio?** Yes — this is an unofficial community plugin that translates Android Studio's menus, settings and dialogs into Arabic.
+
+**هل يوجد تعريب عربي لـ Android Studio (أندرويد ستوديو / اندرويد استوديو / استوديو Android)؟** نعم، هذه حزمة لغة عربية مجتمعية غير رسمية تجعل قوائم وإعدادات وحوارات Android Studio بالعربي.
+
 <!-- Add screenshots here, for example:
 ![Menus in Arabic](screenshots/menus.png)
 -->
