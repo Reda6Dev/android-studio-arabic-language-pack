@@ -1,5 +1,9 @@
 # Arabic Language Pack for Android Studio — تعريب Android Studio
 
+[![Release](https://img.shields.io/github/v/release/Reda6Dev/android-studio-arabic-language-pack?include_prereleases&label=Release&color=blue)](https://github.com/Reda6Dev/android-studio-arabic-language-pack/releases)
+[![Downloads](https://img.shields.io/github/downloads/Reda6Dev/android-studio-arabic-language-pack/total?label=Downloads&color=brightgreen)](https://github.com/Reda6Dev/android-studio-arabic-language-pack/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 > **Unofficial community Beta** · Arabic (`ar`) user-interface translation for **Android Studio 2026.1.1 (build 261.\*)** · AI-assisted translation, reviewed by sampling only.
 >
 > **حزمة لغة عربية مجتمعية غير رسمية (تجريبية)** لواجهة Android Studio 2026.1.1، ترجمة بمساعدة الذكاء الاصطناعي وراجعتها بالعينات فقط.
